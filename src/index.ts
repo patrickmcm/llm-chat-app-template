@@ -75,7 +75,6 @@ async function handleChatRequest(
 			},
 			{
 				returnRawResponse: true,
-				tags: [],
 				// Uncomment to use AI Gateway
 				// gateway: {
 				//   id: "YOUR_GATEWAY_ID", // Replace with your AI Gateway ID
